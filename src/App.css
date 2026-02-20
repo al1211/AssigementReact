@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.p-datatable .p-datatable-tbody > tr > td .p-checkbox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
